@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: Dokumentation für Active IQ Unified Manager, AIQUM Dokumentation, um Dokumentation 
+---
+= Active IQ Unified Manager-Dokumentation
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
