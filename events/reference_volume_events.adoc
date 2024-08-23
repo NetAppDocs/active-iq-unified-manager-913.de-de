@@ -606,7 +606,7 @@ Kritisch
 
 
  a| 
-Volume-Latenz ms/op Warnungsschwellenwert nicht überschritten (ocumVolumeLatencyWarnung)
+Schwellenwert für Volume-Latenzwarnung überschritten (ocumVolumeLatencyWarnung)
  a| 
 Dar
  a| 
