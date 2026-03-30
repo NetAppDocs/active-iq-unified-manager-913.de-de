@@ -1,5 +1,16 @@
 ---
 indexpage:
+  title: Active IQ Unified Manager Dokumentation
+  summary: Active IQ Unified Manager (Unified Manager, und früher OnCommand Unified
+    Manager) ermöglicht es Ihnen, den Zustand und die Leistung Ihrer ONTAP-Speichersysteme
+    über eine einzige Benutzeroberfläche zu überwachen und zu verwalten. Diese Dokumentationsbibliothek
+    enthält Informationen zur Version 9.13. Active IQ Unified Manager (Unified Manager,
+    und früher OnCommand Unified Manager) ermöglicht es Ihnen, den Zustand und die
+    Leistung Ihrer ONTAP-Speichersysteme über eine einzige Benutzeroberfläche zu überwachen
+    und zu verwalten. Diese Dokumentationsbibliothek enthält Informationen zur Version
+    9.13.
+  keywords: active iq unified manager, documentation, 913, aiqum, release notes, install,
+    uninstall, linux, vapp, windows, health, performance, checker, storage, management
   lead: Mit Active IQ Unified Manager (Unified Manager und früher OnCommand Unified
     Manager) können Sie den Zustand und die Performance Ihrer ONTAP Storage-Systeme
     über eine einzige Benutzeroberfläche überwachen und managen. Diese Dokumentationsbibliothek
