@@ -29,7 +29,7 @@ Bei MetroCluster-over-IP-Konfigurationen wird der Datenreplizierungsstatus in de
 * *Schutz* > *Beziehungen* > *Beziehung: MetroCluster* Ansicht
 
 
-Weitere Informationen finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip["Überwachen Sie Konnektivitätsprobleme in MetroCluster über IP"].
+Weitere Informationen finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip-configuration["Überwachen Sie Konnektivitätsprobleme in MetroCluster über IP"].
 
 
 
