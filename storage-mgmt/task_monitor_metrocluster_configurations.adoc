@@ -30,6 +30,7 @@ Unified Manager verwendet Systemzustandsmeldungen, um den Status der Komponenten
 
 
 
+[[monitor-connectivity-issues-in-metrocluster-over-fc-configuration]]
 == Überwachen von Konnektivitätsproblemen in der MetroCluster-over-FC-Konfiguration
 
 Bei Clustern in einer MetroCluster-over-FC-Konfiguration werden die Konnektivitätsdiagramme auf der Seite *Cluster / Health*-Details angezeigt. Auszuführende Schritte:
@@ -60,6 +61,7 @@ Weitere Informationen zum Bestimmen des Cluster-Systemzustands finden Sie unter 
 
 
 
+[[monitor-connectivity-issues-in-metrocluster-over-ip-configuration]]
 == Überwachen Sie Konnektivitätsprobleme in MetroCluster über IP-Konfiguration
 
 Bei Clustern in einer MetroCluster-over-IP-Konfiguration werden die Konnektivitätskarten auf der Seite *Cluster* angezeigt. Auszuführende Schritte:

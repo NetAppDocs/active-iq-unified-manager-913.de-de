@@ -15,6 +15,7 @@ Sie können die herunterladen `.tar` Datei, die ein Stammzertifikat enthält, a 
 
 
 
+[[system-requirements]]
 == Systemanforderungen
 
 * Betriebssystem VMware ESXi 6.5, 6.7 und 7.0.x
@@ -27,10 +28,12 @@ Detaillierte Systemanforderungen finden Sie im link:../install-vapp/concept_requ
 
 
 
+[[installing-active-iq-unified-manager]]
 == Active IQ Unified Manager wird installiert
 
 
 
+[[download-the-installer]]
 === Laden Sie das Installationsprogramm herunter
 
 . Laden Sie die herunter `.tar` Datei, die ein Stammzertifikat enthält, a `README` Datei und an `OVA` Datei:
@@ -42,12 +45,14 @@ Erforderlich `OVA` Datei, ein Stammzertifikat und ein `README` Die Datei wird in
 
 
 
+[[verify-integrity]]
 === Überprüfen Sie die Integrität
 
 Sie können die Integrität des überprüfen `OVA` Führen Sie die Schritte aus, die im aufgeführt sind `README` Datei:
 
 
 
+[[install-unified-manager]]
 === Installation Von Unified Manager
 
 . Klicken Sie im vSphere-Client auf *Datei > OVF-Vorlage bereitstellen*.

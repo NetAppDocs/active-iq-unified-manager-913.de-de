@@ -22,6 +22,7 @@ Mit Active IQ Unified Manager (Unified Manager) können Sie den Betriebszustand 
 
 
 
+[[determining-cluster-health-in-metrocluster-over-fc-configuration]]
 == Bestimmen des Cluster-Systemzustands in MetroCluster über die FC-Konfiguration
 
 Befolgen Sie diese Schritte, um den Cluster-Zustand in einer MetroCluster über die FC-Konfiguration zu bestimmen.
@@ -60,6 +61,7 @@ Wenn in diesem Beispiel das NVRAM-Symbol auf dem lokalen oder Partner-Cluster ge
 
 
 
+[[determining-cluster-health-in-metrocluster-over-ip-configuration]]
 == Ermitteln des Clusterzustands in der MetroCluster-over-IP-Konfiguration
 
 Befolgen Sie diese Schritte, um den Cluster-Zustand in einer MetroCluster über IP-Konfiguration zu bestimmen.

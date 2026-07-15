@@ -22,6 +22,7 @@ Ein Benutzer mit einer Storage-Administratorrolle kann AutoSupport Meldungen und
 ====
 
 
+[[sending-on-demand-autosupport-messages]]
 == Senden von On-Demand AutoSupport Nachrichten
 
 Sie können eine On-Demand-Nachricht an den technischen Support, an einen bestimmten E-Mail-Empfänger oder an beide senden.
@@ -36,6 +37,7 @@ Sie können eine On-Demand-Nachricht an den technischen Support, an einen bestim
 
 
 
+[[enabling-periodic-autosupport]]
 == Aktivieren von regelmäßigen AutoSupport
 
 Sie können dem technischen Support spezifische, vordefinierte Meldungen zur Fehlerbehebung in regelmäßigen Abständen senden. Diese Funktion ist standardmäßig aktiviert. Wenn diese Option deaktiviert ist, kann ein Administrator oder Wartungsbenutzer die Einstellungen aktivieren.
@@ -49,6 +51,7 @@ Sie können dem technischen Support spezifische, vordefinierte Meldungen zur Feh
 
 
 
+[[uploading-on-demand-support-bundle]]
 == Supportpaket nach Bedarf hochladen
 
 Je nach Anforderung zur Fehlerbehebung können Sie ein Support Bundle an den technischen Support generieren und senden. Unified Manager speichert nur die zwei zuletzt erstellten Support Bundles. Ältere Supportpakete werden aus dem System gelöscht.
@@ -72,6 +75,7 @@ Auch wenn Sie keine Datentypen auswählen, wird das Support-Paket immer noch mit
 
 
 
+[[setting-up-http-proxy-server]]
 == Einrichten des HTTP-Proxyservers
 
 Sie können einen Proxy für den Internetzugriff festlegen, um AutoSupport-Inhalte zu unterstützen, falls Ihre Umgebung keinen direkten Zugriff vom Unified Manager-Server bietet. Dieser Abschnitt ist nur für Administrator- und Wartungsbenutzer verfügbar.

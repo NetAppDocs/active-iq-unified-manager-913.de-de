@@ -15,6 +15,7 @@ Sie können das Installationspaket herunterladen und Unified Manager auf einer p
 
 
 
+[[system-requirements]]
 == Systemanforderungen
 
 * Betriebssystem: Red hat Enterprise Linux Versionen 7.x und von 8.0 bis 8.7 oder CentOS Version 7.x basierend auf x86_64 Architektur, installiert unter Verwendung der „Server mit GUI“ Basisumgebung aus der Option *Software Selection* des OS Installers
@@ -26,10 +27,12 @@ Detaillierte Systemanforderungen und Informationen zur Installation des Produkts
 
 
 
+[[installing-active-iq-unified-manager]]
 == Active IQ Unified Manager wird installiert
 
 
 
+[[download-the-installer]]
 === Laden Sie das Installationsprogramm herunter
 
 . Laden Sie die herunter `ActiveIQUnifiedManager-<version>.zip` Installationspaket und Code-Signing-Zertifikat (`.pem`) Und digitale Signatur (`.sig`) .
@@ -41,6 +44,7 @@ Detaillierte Systemanforderungen und Informationen zur Installation des Produkts
 
 
 
+[[verify-integrity]]
 === Überprüfen Sie die Integrität
 
 Führen Sie die folgenden Befehle aus, um die Integrität des Installationspakets zu überprüfen:
@@ -51,6 +55,7 @@ Führen Sie die folgenden Befehle aus, um die Integrität des Installationspaket
 
 
 
+[[verify-repository-configuration]]
 === Überprüfung der Repository-Konfiguration
 
 Die Vorgehensweisen für die Konfiguration von Red hat Enterprise Linux- oder CentOS-Repositorys sind standortspezifisch. Sie können das verwenden `pre_install_check.sh` Skript im Installationspaket enthalten, um die Konfiguration Ihres Betriebssystems zu überprüfen. Wenn Ihr System mit dem Internet verbunden ist, erhalten Sie automatisch Anweisungen zum Einrichten der Red hat Enterprise Linux- oder CentOS-Repositories.
@@ -59,6 +64,7 @@ Die Vorgehensweisen für die Konfiguration von Red hat Enterprise Linux- oder Ce
 
 
 
+[[install-unified-manager]]
 === Installation Von Unified Manager
 
 Unified Manager verwendet das `yum` Dienstprogramm zum Installieren der Software und der abhängigen Software. Da es unterschiedliche Bilder von Red hat Enterprise Linux oder CentOS gibt, hängen die installierten Pakete von der in den Bildern vorhandenen Software ab. Der `yum` Dienstprogramm bestimmt die abhängigen Softwarepakete für die Installation. Weitere Informationen zu den abhängigen Softwarepaketen finden Sie im link:../install-linux/reference_red_hat_and_centos_software_and_installation_requirements.html["Linux-Software- und Installationsanforderungen"].
